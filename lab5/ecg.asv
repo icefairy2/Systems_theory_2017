@@ -1,0 +1,2 @@
+plot(time,necg)
+filter=butt
